@@ -41,4 +41,4 @@ Se você possui alguma dúvida ou sugestão gabriel1007@yahoo.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldos-santos/)
 [![Kaggle](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gabedossantos)
 
-<img src="https://images.app.goo.gl/fReHqZyAdAhCEgbW9" alt="Tanzania Tourism Prediciton App" />
+<img src="/-vq7c40.jpg" alt="Tanzania Tourism Prediciton App" />
