@@ -1,6 +1,8 @@
 
 # Detecção de fraude bancárias
 
+<img src="/-vq7c40.jpg" alt="Tanzania Tourism Prediciton App" />
+
 A base de dados que será utilizada para o desenvolvimento deste projeto contém aproximadamente 6,3 milhões de 
 transações. Estas transações podem ser de diferentes tipo 
 e foram executadas via mobile devices. Imagine que um banco sofreu um processo  
@@ -41,4 +43,4 @@ Se você possui alguma dúvida ou sugestão gabriel1007@yahoo.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldos-santos/)
 [![Kaggle](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gabedossantos)
 
-<img src="/-vq7c40.jpg" alt="Tanzania Tourism Prediciton App" />
+
